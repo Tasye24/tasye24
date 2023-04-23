@@ -86,12 +86,21 @@ I'm passionated by developping and participate/create big/small projects.
 
 <div class="stats">
 
-<!-- User stats -->
 
-[![Tasye24's GitHub stats](https://github-readme-stats.vercel.app/api?username=tasye24&show_icons=true&theme=dark&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
+
+<p>
 
 <!-- Top langs -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tasye24&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
+
+<!-- User stats -->
+<p>
+
+[![Tasye24's GitHub stats](https://github-readme-stats.vercel.app/api?username=tasye24&show_icons=true&theme=tokyonight&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tasye24&theme=tokyonight&border_radius=15)](https://git.io/streak-stats)
 
