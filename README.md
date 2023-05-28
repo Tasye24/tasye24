@@ -81,26 +81,19 @@ I'm passionated by developping and participate/create big/small projects.
 
 <h2 style="color: #07f">📊 Stats</h2>
 
-<div class="stats">
-
-
-
-<p>
+<div class="stats" style="padding: 0;display: grid;grid-template-columns: repeat(auto-fit, minmax(30em, 1fr));gap: 1.5em;">
 
 <!-- Top langs -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tasye24&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
-
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img with="2em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasye24&border_radius=15"></a>
 
 <!-- User stats -->
-<p>
 
-[![Tasye24's GitHub stats](https://github-readme-stats.vercel.app/api?username=tasye24&show_icons=true&theme=tokyonight&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats"><img with="2em" alt="Tasye24's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=tasye24&show_icons=true&theme=tokyonight&border_radius=15"></a>
 
-</p>
+<a href="https://git.io/streak-stats"><img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=tasye24&theme=tokyonight&border_radius=15"></a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tasye24&theme=tokyonight&border_radius=15)](https://git.io/streak-stats)
-
+[![Tasye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tasye24&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
+    
 </div>
 
 
