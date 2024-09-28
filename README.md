@@ -81,7 +81,7 @@ I'm passionated by developping and participate/create big/small projects.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" height="48px" style="padding: 0 .25em 0 .25em">
 </a>
 <a href="https://ubuntu.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="48px" style="padding: 0 .25em 0 .25em">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" height="48px" style="padding: 0 .25em 0 .25em">
 </a>
 
 <h2 style="color: #07f">📊 Stats</h2>
