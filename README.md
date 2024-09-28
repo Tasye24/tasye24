@@ -19,7 +19,7 @@ I'm passionated by developping and participate/create big/small projects.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48px" style="padding: 0 .25em 0 .25em">
 </a>
 <a href="https://java.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java.svg" height="48px" style="padding: 0 .25em 0 .25em">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 </a>
 
 <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
