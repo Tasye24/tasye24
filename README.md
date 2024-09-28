@@ -18,6 +18,10 @@ I'm passionated by developping and participate/create big/small projects.
 <a href="https://developer.mozilla.org/docs/Learn/Getting_started_with_the_web/HTML_basics" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48px" style="padding: 0 .25em 0 .25em">
 </a>
+<a href="https://java.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java.svg" height="48px" style="padding: 0 .25em 0 .25em">
+</a>
+
 <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48px" style="padding: 0 .25em 0 .25em">
 </a>
@@ -60,6 +64,7 @@ I'm passionated by developping and participate/create big/small projects.
 <a href="https://nodejs.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48px" style="padding: 0 .25em 0 .25em">
 </a>
+
 <a href="https://php.net" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" height="48px" width="96px" style="padding: 0 .25em 0 .25em">
 </a>
