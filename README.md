@@ -35,7 +35,7 @@ I'm passionated by developping and participate/create big/small projects.
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" height="48px" style="padding: 0 .25em 0 .25em">
 </a>
 <a href="https://adobe.com/illustrator" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" height="48px" style="padding: 0 .25em 0 .25em">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" height="48px" style="padding: 0 .25em 0 .25em">
 </a>
 <a href="https://adobe.com/xd" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" height="48px" style="padding: 0 .25em 0 .25em">
@@ -66,7 +66,7 @@ I'm passionated by developping and participate/create big/small projects.
 </a>
 
 <a href="https://php.net" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" height="48px" width="96px" style="padding: 0 .25em 0 .25em">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="48px" width="96px" style="padding: 0 .25em 0 .25em">
 </a>
 <a href="" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="48px" style="padding: 0 .25em 0 .25em">
@@ -78,7 +78,7 @@ I'm passionated by developping and participate/create big/small projects.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="48px" style="padding: 0 .25em 0 .25em">
 </a>
 <a href="https://windows.com" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-11.svg" height="48px" style="padding: 0 .25em 0 .25em">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" height="48px" style="padding: 0 .25em 0 .25em">
 </a>
 <a href="https://ubuntu.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="48px" style="padding: 0 .25em 0 .25em">
