@@ -9,6 +9,9 @@ I'm passionated by developping and participate/create big/small projects.
 <a href="https://developer.mozilla.org/docs/Learn/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48px" style="padding: 0 .25em 0 .25em">
 </a>
+<span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="48px" style="padding: 0 .25em 0 .25em">
+</span>
 <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48px" style="padding: 0 .25em 0 .25em">
 </a>
