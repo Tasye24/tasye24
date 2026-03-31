@@ -93,6 +93,7 @@ I'm passionated by developping and participate/create big/small projects.
 
 <!-- Top langs -->
 <a href="https://github.com/anuraghazra/github-readme-stats"><img with="2em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasye24&border_radius=15"></a>
+![Stats](./profile/stats.svg)
 
 <!-- User stats -->
 
