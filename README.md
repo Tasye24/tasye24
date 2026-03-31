@@ -91,15 +91,17 @@ I'm passionated by developping and participate/create big/small projects.
 
 <div class="stats" style="padding: 0;display: grid;grid-template-columns: repeat(auto-fit, minmax(30em, 1fr));gap: 1.5em;">
 
-<!-- Top langs -->
-<a href="https://github.com/anuraghazra/github-readme-stats"><img with="2em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasye24&border_radius=15"></a>
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
-<!-- User stats -->
+<!-- 
+<!-- Top langs
+<a href="https://github.com/anuraghazra/github-readme-stats"><img with="2em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasye24&border_radius=15"></a>
+<!-- User stats 
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img with="2em" alt="Tasye24's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=tasye24&show_icons=true&theme=tokyonight&border_radius=15"></a>
+-->
 
 <a href="https://git.io/streak-stats"><img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=tasye24&theme=tokyonight&border_radius=15"></a>
 
